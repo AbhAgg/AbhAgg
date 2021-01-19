@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-!--
-**AbhAgg/AbhAgg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Welcome to my profile.
 
 - 🔭 I’m currently working on various analytics projects 
 - 👯 I’m looking to collaborate on : new ideas to fine tune my analytics skills
