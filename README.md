@@ -10,7 +10,7 @@ Welcome to my profile.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I've never seen snow in my life.
 
-
+ <img class="card-img-top" src="https://imgur.com/WsAqNfV.gif" alt="Card image cap">
 ### Let's Connect :coffee:
 <p align="center">
 	<a href="https://github.com/sisodiya2421"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
