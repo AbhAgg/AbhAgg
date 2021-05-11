@@ -8,7 +8,7 @@ Welcome to my profile.
 
 - 👯 I’m looking to collaborate on : new ideas to fine tune my analytics skills
 
-- 🤔 I’m looking for help with more intersting articles about business analytics and product management
+- 🤔 I’m always looking for more intersting articles about business analytics and product management
 
 - 💬 Ask me about : Data Analytics projects, business intelligence use cases, embedded systems, bio-engineering
 
