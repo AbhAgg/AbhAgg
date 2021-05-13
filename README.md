@@ -1,4 +1,7 @@
-<img align ="right" width = "400" alt="Data Analytics - Animation | Motion design animation, Motion graphics  design, Analytics design" class="n3VNCb" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif" data-noaft="1" jsname="HiaYvf" jsaction="load:XAeZkd;" style="width: 100px; height: 100px; margin: 0px;">
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fmagazine.xpert.tv%2Fresponsibilities-of-a-data-analyst%2F&psig=AOvVaw1-AwXLp1PoSX0ZeXtJGXaH&ust=1620981178231000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODu0cyfxvACFQAAAAAdAAAAABAD
+
+
+<img align ="right" width = "400" alt="Data Analytics - Animation | Motion design animation, Motion graphics  design, Analytics design" class="n3VNCb" src="https://magazine.xpert.tv/wp-content/uploads/2020/07/giphy-25.gif" data-noaft="1" jsname="HiaYvf" jsaction="load:XAeZkd;" style="width: 100px; height: 100px; margin: 0px;">
 
 ### Hi there 👋
 
