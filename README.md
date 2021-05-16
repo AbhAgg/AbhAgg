@@ -15,6 +15,8 @@ Welcome to my profile. Glad to see you here.  I'm a passionate learner who's alw
 
 - 🤔 I’m always looking for more intersting articles about business analytics and product management
 
+- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+- 
 - 💬 Ask me about : Data Analytics projects, business intelligence use cases, embedded systems, bio-engineering
 
 - 📫 You can reach me on <a href="https://www.linkedin.com/in/abhinandanaggarwal/" rel="nofollow">Linkedin</a>  for complete background and contact.
