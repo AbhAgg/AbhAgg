@@ -63,7 +63,7 @@ Welcome to my profile. Glad to see you here.  I'm a passionate learner who's alw
 		     
 <div>
 <p align="center">
-<a href="https://www.python.org" target="_blank">                     <img src="images/python.png" alt="python" width="80" height="50" title="Python"/> </a>
+<a href="https://www.python.org" target="_blank">                     <img src="images/python.png" alt="python" width="50" height="50" title="Python"/> </a>
 <a href="https://www.mysql.com/" target="_blank">                     <img src="images/sql.png" alt="mysql" width="80" height="50" title="MySQL"/></a> 
 <a href="https://numpy.org/doc/" target="_blank">                     <img src="images/numpy.png" alt="numpy" width="80" height="50" title="Numpy"/> </a>
 <a href="https://pandas.pydata.org/docs/" target="_blank">            <img src="images/pandas.png" alt="pandas" width="50" height="50" title="Pandas"/> </a>
