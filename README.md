@@ -15,8 +15,7 @@ Welcome to my profile. Glad to see you here.  I'm a passionate learner who's alw
 
 - 💬 Ask me about : Data Analytics projects, business intelligence use cases, embedded systems, bio-engineering
 
-- 📫 How to reach me: https://www.linkedin.com/in/abhinandanaggarwal/
-
+- 📫 You can reach me on <a href="https://www.linkedin.com/in/abhinandanaggarwal/" rel="nofollow">Linkedin</a>  for complete background and contact.
 - 😄 Pronouns: He/Him
 
 - ⚡ Fun fact: I've never seen snow in my life.
