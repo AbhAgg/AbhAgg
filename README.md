@@ -56,6 +56,6 @@ Welcome to my profile. Glad to see you here.  I'm a passionate learner who's alw
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/album/2zl2Dx9Q9yhsBUCA4in50r)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/playlist/02VyOsmCfIYLqKzRAdnMZZ?a=)
 
 ---
