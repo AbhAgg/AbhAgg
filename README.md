@@ -33,4 +33,3 @@ Welcome to my profile. Glad to see you here.  I'm a passionate learner who's alw
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhagg&show_icons=true&locale=en" alt="abhagg" /></p>
 
 
-<img align ="up" width = "200" alt="Data Analytics - Animation | Motion design animation, Motion graphics  design, Analytics design" class="n3VNCb" src="https://i.pinimg.com/originals/71/d3/65/71d365c6b3117191bcbf8def41219e45.gif" data-noaft="1" jsname="HiaYvf" jsaction="load:XAeZkd;" style="width: 100px; height: 100px; margin: 0px;">
