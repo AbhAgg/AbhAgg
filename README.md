@@ -32,7 +32,7 @@ Welcome to my profile. Glad to see you here.  I'm a passionate learner who's alw
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhagg&theme=merko&show_icons=true&locale=en&layout=compact" alt="abhagg" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=abhagg&show_icons=true&locale=en" alt="abhagg" /></p>
-<p align="left"><img width="40%" src="https://github-readme-stats.vercel.app/api?username=nakulbhati&show_icons=true&theme=monokai&count_private=true"</p>
+<p align="centre"><img width="40%" src="https://github-readme-stats.vercel.app/api?username=nakulbhati&show_icons=true&theme=monokai&count_private=true"</p>
 
 
 <h2><b>💻 Tech Stack</b></h2>
