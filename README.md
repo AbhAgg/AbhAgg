@@ -26,10 +26,11 @@ Welcome to my profile. Glad to see you here.  I'm a passionate learner who's alw
 	<a href="https://www.linkedin.com/in/abhinandanaggarwal/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://twitter.com/nan_dan_abhi"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhagg&label=Profile%20views&color=brightgreen" alt="abhagg" /> </p>
 
 
-<p><img  width="40%" align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhagg&theme=merko&show_icons=true&locale=en&layout=compact" alt="abhagg" /></p>
+<p align="left">   <img src="https://komarev.com/ghpvc/?username=abhagg&label=Profile%20views&color=brightgreen" alt="abhagg" /> </p>
+
+<p align="centre"> <img  width="40%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=abhagg&theme=merko&show_icons=true&locale=en&layout=compact" alt="abhagg" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=abhagg&show_icons=true&locale=en" alt="abhagg" /></p>
 <p align="centre"><img width="40%" src="https://github-readme-stats.vercel.app/api?username=nakulbhati&show_icons=true&theme=monokai&count_private=true"</p>
