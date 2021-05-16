@@ -21,9 +21,16 @@ Welcome to my profile. Glad to see you here.  I'm a passionate learner who's alw
 - ⚡ Fun fact: I've never seen snow in my life.
 
 ### Let's Connect :coffee:
-<p align="center">
+<p align="left">
 	<a href="https://github.com/sisodiya2421"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/abhinandanaggarwal/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhagg&label=Profile%20views&color=0e75b6&style=flat" alt="abhagg" /> </p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhagg&show_icons=true&locale=en&layout=compact" alt="abhagg" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhagg&show_icons=true&locale=en" alt="abhagg" /></p>
+
 
 <img align ="up" width = "200" alt="Data Analytics - Animation | Motion design animation, Motion graphics  design, Analytics design" class="n3VNCb" src="https://i.pinimg.com/originals/71/d3/65/71d365c6b3117191bcbf8def41219e45.gif" data-noaft="1" jsname="HiaYvf" jsaction="load:XAeZkd;" style="width: 100px; height: 100px; margin: 0px;">
