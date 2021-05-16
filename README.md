@@ -1,9 +1,11 @@
 
 ### Hi there, I'm Abhinandan (Abhi) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Welcome to my profile. Glad to see you here.  I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Business Analytics 🕸️ and Dat Science 👀.
+Welcome to my profile. Glad to see you here.  I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Business Analytics 🕸️ and Data Science 👀.
 
 <img align ="right" width = "500" alt="Data Analytics - Animation | Motion design animation, Motion graphics  design, Analytics design" class="n3VNCb" src="https://github.com/AbhAgg/AbhAgg/blob/main/code.gif" data-noaft="1" jsname="HiaYvf" jsaction="load:XAeZkd;" style="width: 100px; height: 100px; margin: 0px;border-radius:50%;">
+
+<hr class="solid">
 
 ### More about me:
 - 🔭 I’m currently working on various analytics projects 
@@ -19,12 +21,15 @@ Welcome to my profile. Glad to see you here.  I'm a passionate learner who's alw
 
 - ⚡ Fun fact: I've never seen snow in my life.
 
+<hr class="solid">
+
 ### Let's Connect :coffee:
 <p align="left">
 	<a href="https://github.com/sisodiya2421"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/abhinandanaggarwal/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://twitter.com/nan_dan_abhi"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
 </p>
+<hr class="solid">
 
 
 <p >   <img align="left" src="https://komarev.com/ghpvc/?username=abhagg&label=Profile%20views&color=brightgreen" alt="abhagg" /></p>
@@ -38,6 +43,8 @@ Welcome to my profile. Glad to see you here.  I'm a passionate learner who's alw
 	</div>
 
 <div>
+	<hr class="solid">
+
 <h2><b>💻 Tech Stack</b></h2>
 <p align="center">
 <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
@@ -50,7 +57,8 @@ Welcome to my profile. Glad to see you here.  I'm a passionate learner who's alw
 </div>
 		     
 <img align ="up" width = "200" alt="Data Analytics - Animation | Motion design animation, Motion graphics  design, Analytics design" class="n3VNCb" src="https://i.pinimg.com/originals/71/d3/65/71d365c6b3117191bcbf8def41219e45.gif" data-noaft="1" jsname="HiaYvf" jsaction="load:XAeZkd;" style="width: 100px; height: 100px; margin: 0px;">
----
+<hr class="solid">
+
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
@@ -58,4 +66,4 @@ Welcome to my profile. Glad to see you here.  I'm a passionate learner who's alw
 
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/playlist/02VyOsmCfIYLqKzRAdnMZZ?a=)
 
----
+
