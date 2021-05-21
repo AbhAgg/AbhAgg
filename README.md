@@ -57,6 +57,8 @@ Welcome to my profile. Glad to see you here.  I'm a passionate learner who's alw
 <img src="https://img.shields.io/badge/git%20&%20github-FF9800.svg?&style=for-the-badge&logo=git&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/edge-0078D7.svg?&style=for-the-badge&logo=microsoft-edge&logoColor=white" height="25"/> 
 <img src="https://img.shields.io/badge/matlab-success.svg?&style=for-the-badge&logo=mathworks&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/tableau-blue.svg?&style=for-the-badge&logo=tableau&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/power_bi-red.svg?&style=for-the-badge&logo=power-bi&logoColor=white" height="25"/>
 
 </p>
 </div>
