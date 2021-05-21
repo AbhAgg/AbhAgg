@@ -69,8 +69,13 @@ Welcome to my profile. Glad to see you here.  I'm a passionate learner who's alw
 <a href="https://www.mysql.com/" target="_blank">                     <img src="images/sql.png" alt="mysql" width="80" height="50" title="MySQL"/></a> 
 <a href="https://numpy.org/doc/" target="_blank">                     <img src="images/numpy.png" alt="numpy" width="80" height="50" title="Numpy"/> </a>
 <a href="https://pandas.pydata.org/docs/" target="_blank">            <img src="images/pandas.png" alt="pandas" width="50" height="50" title="Pandas"/> </a>
-<a href="https://matplotlib.org/3.3.3/contents.html" target="_blank"> <img src="images/mat.png" alt="pandas" width="80" height="50" title="Matplotlib"/>&nbsp;</a> 
+<a href="https://matplotlib.org/3.3.3/contents.html" target="_blank"> <img src="images/mat.png" alt="matplotlib" width="80" height="50" title="Matplotlib"/>&nbsp;</a> 
 <a href="https://git-scm.com/" target="_blank">                       <img src="images/git.png" alt="git" width="80" height="50" title="GIT"/> </a>
+<a href="https://www.tableau.com/" target="_blank">                   <img src="images/Tableau-Logo-for-website-2.jpg" alt="tableau" width="80" height="50" title="TABLEAU"/> </a>
+<a href="https://powerbi.microsoft.com/en-us/" target="_blank">       <img src="images/power-bi-1.jpg" alt="powerbi" width="80" height="50" title="POWERBI"/> </a>
+	
+	
+	
 </div>
 
 <hr class="solid">
