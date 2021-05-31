@@ -23,7 +23,7 @@ Welcome to my profile. Glad to see you here.  I'm a passionate learner who's alw
 
 - 😄 Pronouns: He/Him
 
-- ⚡ Fun fact: I've never seen snow in my life.
+- ⚡ Fun fact: I'm a sun sneezer.
 
 - 😎 You might find me pretending to work in a cafe.
 <hr class="solid">
