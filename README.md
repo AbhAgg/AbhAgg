@@ -10,6 +10,7 @@ Welcome to my profile. Glad to see you here.  I'm a passionate learner who's alw
 
 
 ### More about me:
+
 - 🔭 I’m currently working on various analytics projects 
 
 - 👯 I’m looking to collaborate on : new ideas to fine tune my analytics skills
