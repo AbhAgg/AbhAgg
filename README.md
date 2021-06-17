@@ -1,6 +1,6 @@
 
 
-### Hi there, I'm Abhinandan (Abhi) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+### Hi there, I'm Abhinandan (Abhi) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  
 
 Welcome to my profile. Glad to see you here.  I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Business Analytics 🕸️ and Data Science 👀.
 
