@@ -35,7 +35,6 @@ Welcome to my profile. Glad to see you here.  I'm a passionate learner who's alw
 <p align="left">
 	<a href="https://github.com/AbhAgg"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/abhinandanaggarwal/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://twitter.com/nan_dan_abhi"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
 </p>
 <p >   
 <hr class="solid">
@@ -47,7 +46,6 @@ Welcome to my profile. Glad to see you here.  I'm a passionate learner who's alw
 
 <p> <img align='top'  width="40%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=abhagg&theme=merko&show_icons=true&locale=en&layout=compact" alt="abhagg"  />
 <img  src="https://github-readme-stats.vercel.app/api?username=abhagg&show_icons=true&locale=en" alt="abhagg" /></p>
-<!-- <p align="centre"><img width="40%" src="https://github-readme-stats.vercel.app/api?username=nakulbhati&show_icons=true&theme=monokai&count_private=true"</p> -->
 </div>
 
 <div>
