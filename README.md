@@ -33,7 +33,7 @@ Welcome to my profile. Glad to see you here.  I'm a passionate learner who's alw
 
 ### Let's Connect :coffee: <img align="right" src="https://komarev.com/ghpvc/?username=abhagg&label=Profile%20views&color=brightgreen" alt="abhagg" /></p>
 <p align="left">
-	<a href="https://github.com/sisodiya2421"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://github.com/AbhAgg"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/abhinandanaggarwal/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://twitter.com/nan_dan_abhi"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
 </p>
